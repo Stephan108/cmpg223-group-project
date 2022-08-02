@@ -1,0 +1,7 @@
+To Do List for the group project:
+
+14th of August, create class diagram for project.
+Create GUI for project
+Create database for project
+Link dB with project
+Create syntax to manipulate data from dB and display via GUI to user
