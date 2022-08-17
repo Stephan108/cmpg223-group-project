@@ -1,6 +1,7 @@
 To Do List for the group project:
 
 14th of August, create class diagram for project.
+Create logical design
 Create GUI for project
 Create database for project
 Link dB with project
