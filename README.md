@@ -8,3 +8,5 @@
 1. Create class diagram - DONE
 2. Create logical data model
 3. Convert logical to physical data model
+4. Create logical process model - DONE
+5. Convert logical to physical - DONE
